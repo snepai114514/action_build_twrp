@@ -10,7 +10,7 @@
   "dt_path": "device/xiaomi/HM2014501",
   "device_code": "HM2014501",
   "use_omin_head": false,
-  "use_repair_manifest": false,
+  "use_repair_manifest": true,
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
